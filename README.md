@@ -50,9 +50,15 @@ Goal (Android App): Allow user to successfully log in and view their details
 ## Use Case Diagrams
 
 1. Doctor Module
-![alt text](https://github.com/KalpakGaonkar/Alzheimer-s-Classification/blob/main/Screenshots/BE_Project_UseCase_DM.pdf)
+<img src="https://github.com/KalpakGaonkar/Alzheimer-s-Classification/blob/main/Screenshots/doctor_use_case.png" width = 500 height = auto/>
 2. Patient Module
-4. Caregiver Module
+<img src="https://github.com/KalpakGaonkar/Alzheimer-s-Classification/blob/main/Screenshots/patient_use_case.png" width = 500 height = auto/>
+3. Caregiver Module
+<img src="https://github.com/KalpakGaonkar/Alzheimer-s-Classification/blob/main/Screenshots/Caregiver_Use_case.png" width = 500 height = auto/>
+
+---
+
+## 
 
 ---
 
@@ -62,7 +68,7 @@ Goal (Android App): Allow user to successfully log in and view their details
 
 The dashboard is the first page that opens up after the doctor completes the log in process
 
-![alt text](https://github.com/KalpakGaonkar/patient-management-system/blob/main/Screenshots/Screen%20Shot%202022-04-22%20at%209.59.53%20AM.png)
+<img src="https://github.com/KalpakGaonkar/patient-management-system/blob/main/Screenshots/Screen%20Shot%202022-04-22%20at%209.59.53%20AM.png" width = 1000 height = auto/>
 
 ## List of Patients
 
@@ -101,13 +107,13 @@ This is the main page that opens when you click on the application on your phone
 
 After choosing sign in with email it takes you to the sign in page
 
-![alt text](https://github.com/KalpakGaonkar/alzApp/blob/main/Screenshots/Home_page_and_signin_page.png)
+<img src="https://github.com/KalpakGaonkar/alzApp/blob/main/Screenshots/Home_page_and_signin_page.png" width = 600 height = auto/>
 
 ## Option to choose patient or caregiver and Login page
 
 After signing in, the application lets you choose to be either a patient or a caregiver and opens a log in page
 
-![alt text](https://github.com/KalpakGaonkar/alzApp/blob/main/Screenshots/patient_caregiver_option_and_login_page.png)
+<img src="https://github.com/KalpakGaonkar/alzApp/blob/main/Screenshots/patient_caregiver_option_and_login_page.png" width = 600 height = auto/>
 
 ## Patient and Caregiver Home Page
 
@@ -115,16 +121,16 @@ On the left is the patient home page which has features like create and remove r
 
 On the right is the caregiver home page which has features such as Adding a Patient, Viewing patient details, View geofences (Not Completed Yet) and the option of signing out
 
-![alt text](https://github.com/KalpakGaonkar/alzApp/blob/main/Screenshots/patient_and_caregiver_home_page.png)
+<img src="https://github.com/KalpakGaonkar/alzApp/blob/main/Screenshots/patient_and_caregiver_home_page.png" width = 600 height = auto/>
 
 ## List of Patients
 
 This page displays the list of patient which is linked. A patient can be added using the "+" sign on the bottom right corner
 
-![alt text](https://github.com/KalpakGaonkar/alzApp/blob/main/Screenshots/list_of_patients.png)
+<img src="https://github.com/KalpakGaonkar/alzApp/blob/main/Screenshots/list_of_patients.png" width = 300 height = auto/>
 
 ## Patient Details
 
 This page displays the added patient's details which include updates from the doctor, the current stage of Alzheimer's and the MRI scan
 
-![alt text](https://github.com/KalpakGaonkar/alzApp/blob/main/Screenshots/patient_details.png)
+<img src="https://github.com/KalpakGaonkar/alzApp/blob/main/Screenshots/patient_details.png" width = 300 height = auto/>
