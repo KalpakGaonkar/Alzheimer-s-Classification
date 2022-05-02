@@ -50,17 +50,25 @@ Goal (Android App): Allow user to successfully log in and view their details
 ## Use Case Diagrams
 
 ## 1. Doctor Module
+Primary Actor: Doctor
+
 <img src="https://github.com/KalpakGaonkar/Alzheimer-s-Classification/blob/main/Screenshots/doctor_use_case.png" width = 500 height = auto/>
 
 ## 2. Patient Module
+Primary Actor: Patient
+
 <img src="https://github.com/KalpakGaonkar/Alzheimer-s-Classification/blob/main/Screenshots/patient_use_case.png" width = 500 height = auto/>
 
 ## 3. Caregiver Module
+Primary Actor: Caregiver
+
 <img src="https://github.com/KalpakGaonkar/Alzheimer-s-Classification/blob/main/Screenshots/Caregiver_Use_case.png" width = 500 height = auto/>
 
 ---
 
-## 
+## Architecture/ Flow Chart
+
+
 
 ---
 
