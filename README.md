@@ -49,11 +49,13 @@ Goal (Android App): Allow user to successfully log in and view their details
 
 ## Use Case Diagrams
 
-1. Doctor Module
+## 1. Doctor Module
 <img src="https://github.com/KalpakGaonkar/Alzheimer-s-Classification/blob/main/Screenshots/doctor_use_case.png" width = 500 height = auto/>
-2. Patient Module
+
+## 2. Patient Module
 <img src="https://github.com/KalpakGaonkar/Alzheimer-s-Classification/blob/main/Screenshots/patient_use_case.png" width = 500 height = auto/>
-3. Caregiver Module
+
+## 3. Caregiver Module
 <img src="https://github.com/KalpakGaonkar/Alzheimer-s-Classification/blob/main/Screenshots/Caregiver_Use_case.png" width = 500 height = auto/>
 
 ---
