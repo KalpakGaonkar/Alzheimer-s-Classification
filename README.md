@@ -68,7 +68,20 @@ Primary Actor: Caregiver
 
 ## Architecture/ Flow Chart
 
+<img src="https://github.com/KalpakGaonkar/Alzheimer-s-Classification/blob/main/Screenshots/Architecture%20.png" width = 1000 height = auto/>
 
+---
+
+## Activity Diagrams/ Flow of the modules
+
+## 1. Doctor Module
+<img src="https://github.com/KalpakGaonkar/Alzheimer-s-Classification/blob/main/Screenshots/activitydiagram_doctor.png" width = 500 height = auto/>
+
+## 2. Patient Module
+<img src="https://github.com/KalpakGaonkar/Alzheimer-s-Classification/blob/main/Screenshots/activitydiagram_patient.png" width=500 height=auto/>
+
+## 3. Caretaker Module
+<img src="https://github.com/KalpakGaonkar/Alzheimer-s-Classification/blob/main/Screenshots/activitydiagram_caretaker.png" width=500 height=auto/>
 
 ---
 
