@@ -2,6 +2,11 @@
 
 ## This is a system consisting of a web application and an android application. The web application uploads the MRI scan of the patient to a machine learning model which classifies the stage and uploads both the stage and the scan to the database along with some more patient information. The android application displays the patient information and MRI scans on the device
 
+## Repository Links
+
+1. Web Application: https://github.com/KalpakGaonkar/AlzCareWebApp
+2. Android Application: https://github.com/KalpakGaonkar/alzApp
+
 ## 1. Web Application
 This is a web a application developed using JavaScript and meant to serve as a directory of patients under the care of a doctor
 
