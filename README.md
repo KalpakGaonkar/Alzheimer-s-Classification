@@ -47,6 +47,12 @@ Goal (Android App): Allow user to successfully log in and view their details
 
 ---
 
+## Use Case Diagrams
+
+
+
+---
+
 ## Screenshots for the Web Application
 
 ## The dashboard
